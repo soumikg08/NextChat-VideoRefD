@@ -1,0 +1,12 @@
+{
+    "multitest_COCO_POPE_RANDOM_q_a_accuracy": 0.8766666666666667,
+    "multitest_COCO_POPE_RANDOM_q_a_f1": 0.8699929725931131,
+    "multitest_COCO_POPE_RANDOM_q_a_failed": 0,
+    "multitest_COCO_POPE_RANDOM_q_a_precision": 0.9197622585438335,
+    "multitest_COCO_POPE_RANDOM_q_a_recall": 0.8253333333333334,
+    "multitest_COCO_POPE_RANDOM_q_a_runtime": 458.0094,
+    "multitest_COCO_POPE_RANDOM_q_a_samples_per_second": 6.55,
+    "multitest_COCO_POPE_RANDOM_q_a_steps_per_second": 0.819,
+    "multitest_COCO_POPE_RANDOM_q_a_target_failed": 0,
+    "multitest_COCO_POPE_RANDOM_q_a_yes_ratio": 0.44866666666666666
+}
